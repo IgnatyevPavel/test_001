@@ -1,0 +1,205 @@
+    1  ls la
+    2  ls -la
+    3  vim
+    4  vim
+    5  ls
+    6  vim add\!\ 1.json 
+    7  cat add\!\ 1.json 
+    8  vim add\!\ 1.json 
+    9  cat add\!\ 1.json 
+   10  ls -la
+   11  mkdir papka_Json
+   12  cp add\!\ 1.json papka_Json/1.json
+   13  ls -la
+   14  cd papka_Json/
+   15  ls -la
+   16  cd
+   17  ls -la
+   18  mkdir papka_mv
+   19  ls -la
+   20  cd papka_Json/
+   21  ls -la
+   22  mv 1.json 
+   23  mv 1.json ks/papka_mv
+   24  mv 1.json ./ks/papka_mv
+   25  mv 1.json ./papka_mv
+   26  cd ..
+   27  ls -la
+   28  cd papka_mv/
+   29  ls =la
+   30  ls -la
+   31  cd ..
+   32  cd papka_Json/
+   33  ls -la
+   34  mv papka_mv 1.json
+   35  ls -la
+   36  ls -la
+   37  mv papka_Json/1.json papka_mv/3.json
+   38  cd .
+   39  cd ..
+   40  mv papka_Json/1.json papka_mv/3.json
+   41  ls -la
+   42  cd papka_mv/
+   43  ls -la
+   44  mv 3.json ./papka_Json/4.json
+   45  mv 3.json ../papka_Json/4.json
+   46  ls -lat
+   47  ls -t
+   48  ls -la
+   49  touch 5.txt 6.txt 7.txt
+   50  cat > 5.txt
+   51  cat 6.txt
+   52  cat > 6.txt
+   53  cat > 7.txt
+   54  cat 5.txt 6.txt
+   55  cat 5.txt 
+   56  cat > 5.txt
+   57  cat 5.txt 6.txt
+   58  cat 7.txt 6.txt
+   59  cat > 7.txt
+   60  cat 7.txt 
+   61  cat 5.txt 
+   62  cat > 5.txt
+   63  cat 5.txt 6.txt
+   64  cat > 5.txt
+   65  cat 5.txt 6.txt
+   66  cat > 5.txt
+   67  сфе 5.txt 
+   68  cat 5.txt 
+   69  cat 5.txt 6.tx~
+   70  cat 5.txt 6.txt
+   71  cat 5.txt 
+   72  cat -b 5.txt 
+   73  cat -n 5.txt 
+   74  cat 5.txt 6.txt
+   75  cat 7.txt 6.txt
+   76  cat 5.txt 
+   77  cat > 5.txt 
+   78  cat >> 5.txt
+   79  cat 5.txt 
+   80  cat -s 5.txt 
+   81  cat >> 5.txt
+   82  cat -s 5.txt 
+   83  cat -S 5.txt 
+   84  cat -n 5.txt 
+   85  cat -b 5.txt 
+   86  cat 5.txt | less 
+   87  cat 5.txt 
+   88  cat 7.txt 
+   89  cat 5.txt >> 7.txt
+   90  cat 5.txt
+   91  cat 7.txt
+   92  cat 6.txt 
+   93  cat 6.txt > 7.txt
+   94  cat 7.txt
+   95  cat 7.txt > 8.txt
+   96  cat 8.txt 
+   97  cat 5.txt | less 
+   98  cat 5.txt | less 
+   99  cd ..
+  100  cat > papka_Json/9.txt
+  101  cd papka_Json/
+  102  cat 9.txt
+  103  ls -la
+  104  touch 10.txt 101.txt
+  105  cd ..
+  106  find . -name 10*
+  107  cd ..
+  108  find /ks -name 10*
+  109  find /ks/ -name 10*
+  110  find ks -name 10*
+  111  cd ..
+  112  find desktop/ks -name 10*
+  113  find desktop -name 10*
+  114  find desktop -name 10
+  115  find desktop -name 10"
+  116  find desktop -name 10"
+  117  find desktop -name 10"
+  118  find desktop -name "10"
+  119  find desktop -name 10"
+  120  find desktop -name "10"
+  121  find desktop -name "10"
+  122  cd Desktop/ks/
+  123  ls -la
+  124  papka_Json/
+  125  cd papka_Json/
+  126  cd ..
+  127  grep -r пять papka_Json
+  128  cd papka_Json/
+  129  cat 5.txt 
+  130  cat >> 5.txt 
+  131  grep -r -i five papka_Json
+  132  grep -r -i five /papka_Json
+  133  grep -r -i five /papka_Json/
+  134  cd ..
+  135  grep -r -i five /papka_Json/
+  136  grep -r -i five papka_Json
+  137  grep -r five papka_Json
+  138  touch 1.txt
+  139  vim 1.txt 
+  140  cd ..
+  141  cd ks/
+  142  ls =la
+  143  ls -la
+  144  mkdir folder
+  145  cd folder/
+  146  mkdir a b c
+  147  cd a
+  148  touch ABC.txt DEF.txt GHI.txt file_b.json File_b2.json
+  149  mkdir 1 2 3
+  150  ls -la
+  151  vim ABC.txt
+  152  cd ..
+  153  ls -rla
+  154  ls - r
+  155  ls -r
+  156  ls -R
+  157  ls -Rla
+  158  clr
+  159  cls
+  160  clear
+  161  ls -Rla
+  162  mv ../a/file_b.json ../a/File_b2.json b
+  163  mv /a/file_b.json /a/File_b2.json b
+  164  mv ./a/file_b.json ./a/File_b2.json b
+  165  ls -Rla
+  166  cp ./a/ABC.txt ./a/DEF.txt ./a/2
+  167  ls -Rla
+  168  find . -iname abc
+  169  find -r . -iname abc
+  170  find -r . -name abc*
+  171  find . -name abc*
+  172  find  -name abc*
+  173  find -name abc*
+  174  find . -iname abc*
+  175  clear
+  176  ls -Rla
+  177  ls -la
+  178  ls -Rla
+  179  tail -f ./b/File_b2.json 
+  180  tail -f ./b/File_b2.json 
+  181  ls -Rla
+  182  find . -iname ghi*
+  183  head -n2 ./a/GHI.txt 
+  184  history > ./a/GHI.txt
+  185  head -n2 ./a/GHI.txt 
+  186  tail -n2 ./a/GHI.txt 
+  187  cat ./a/GHI.txt | less
+  188  date
+  189  curl http://162.55.220.72:5005/terminal-hw-request
+  190  curl  http://162.55.220.72:5005/get_method?name=Pavel&age=28
+  191  curl  http://162.55.220.72:5005/get_method?name=6&age=279
+  192  curl  http://162.55.220.72:5005/get_method?name=Pavel&age=28"
+  193  q
+  194  git clone https://github.com/IgnatyevPavel/test_001.git
+  195  cd test_001/
+  196  ls -la
+  197  cd .git/
+  198  ls -la
+  199  cd ..
+  200  open .
+  201  open ./
+  202  git status
+  203  start .
+  204  vim user_test.txt
+  205  history > user_test.txt 
